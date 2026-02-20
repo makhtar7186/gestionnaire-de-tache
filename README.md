@@ -1,6 +1,6 @@
 # 📝 Task Manager CLI
 
-Un gestionnaire de tâches en ligne de commande développé en Python.
+Un gestionnaire de tâches développé en Python.
 
 Ce projet permet de gérer des tâches (ajout, suppression, complétion, affichage) avec persistance des données dans un fichier JSON et système de logging professionnel.
 
